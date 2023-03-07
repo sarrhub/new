@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is sarang Motekar
+=======
+This is sarang choudhary
+>>>>>>> master
